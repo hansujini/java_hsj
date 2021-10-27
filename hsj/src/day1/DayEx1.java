@@ -11,7 +11,7 @@ public class DayEx1 {
 		/* 성별을 저장하여 관리하려 한다. 알맞으 변수를 선어하고 초기값으로 남자를 설정해보세요.
 		 * 단, 성별은 남자와 여자만 있다고 가정.
 		 */
-		boolean isMale = ture;
+		boolean isMale = true;
 		String gender = "male";
 		int isMale2 = 13;//13:skawk, 24:라는것을 기억해야하는 불편함이 있다.
 		
