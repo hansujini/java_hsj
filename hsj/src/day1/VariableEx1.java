@@ -9,7 +9,7 @@ public class VariableEx1 {
 		  *
 		  */
 		/* 성적을 관리하는 변수를 선어하려 한다. 성적은 A,B,C,D,F로 관리.
-		 * 이 성적을 관리하기 위한 변ㄴ수를 선언해보세요.
+		 * 이 성적을 관리하기 위한 변수를 선언해보세요.
 		 * 
 		 */
 		char score1; 
@@ -30,7 +30,14 @@ public class VariableEx1 {
 		//byte num2 = 1000; //에러 발생
         
 		score1 = 'A';
-		System.out.println(isAdult1);//에러 발생 : 변수 초기화를 하지 않아서
+		//System.out.println(isAdult1);//에러 발생 : 변수 초기화를 하지 않아서
+		
+		int num2 = 0X11;//16진수 11
+		System.out.println("num2 = " num2);
+		int unm3 = 011;//8진수 11
+		System.out.println("num3 = " + num3);
+		int uum4 = 0b11;// 2진수 11
+		System.out.println("num = " + num4);
 		
 	}  
 
