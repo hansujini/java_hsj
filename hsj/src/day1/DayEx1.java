@@ -13,7 +13,7 @@ public class DayEx1 {
 		 */
 		boolean isMale = true;
 		String gender = "male";
-		int isMale2 = 13;//13:skawk, 24:라는것을 기억해야하는 불편함이 있다.
+		int isMale2 = 13;//13:남자, 24:여자라는것을 기억해야하는 불편함이 있다.
 		
 		
 		
@@ -21,4 +21,3 @@ public class DayEx1 {
 	}
 
 }
-이에gender
