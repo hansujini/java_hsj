@@ -33,10 +33,10 @@ public class VariableEx1 {
 		//System.out.println(isAdult1);//에러 발생 : 변수 초기화를 하지 않아서
 		
 		int num2 = 0X11;//16진수 11
-		System.out.println("num2 = " num2);
-		int unm3 = 011;//8진수 11
+		System.out.println("num2 = " + num2);
+		int num3 = 011;//8진수 11
 		System.out.println("num3 = " + num3);
-		int uum4 = 0b11;// 2진수 11
+		int num4 = 0b11;// 2진수 11
 		System.out.println("num = " + num4);
 		
 	}  
