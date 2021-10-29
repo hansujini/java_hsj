@@ -9,7 +9,7 @@ public class ScannerEx1 {
         Scanner scan =  new Scanner(System.in);
         
         System.out.print("정수를 입력하세요 : ");
-        int num1 = scan.nextInt();
+         int num1 = scan.nextInt();      
         System.out.println("입력된 정수는" + num1 + " 입니다.");
         System.out.print("실수를 입력하세요 : ");
         double num2 = scan.nextDouble();
