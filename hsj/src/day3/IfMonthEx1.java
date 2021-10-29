@@ -7,7 +7,7 @@ public class IfMonthEx1 {
 	public static void main(String[] args) {
 		/* 월을 입력받아 입력 받은 월의 마지막 일을 출력하는 코드를 작성하세요.
 		 * 월을 입력받아
-		 * month가 1월이면 31일이라고 출력하고,
+		 *  month가 1월이면 31일이라고 출력하고,
 		 *  month가 2월이면 28일이라고 출력하고,
 		 *  month가 3월이면 31일이라고 출력하고,
 		 *  month가 4월이면 30일이라고 출력하고,
