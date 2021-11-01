@@ -3,7 +3,7 @@ package day4;
 public class ContinueEx1 {
 
 	public static void main(String[] args) {
-		/* cuntunue가 if문과 같이 나와야 하는 이유를 보여주는 예제*/
+		/* continue가 if문과 같이 나와야 하는 이유를 보여주는 예제*/
 		int i;
 		for(i = 1; i<= 5; i++) {
 			continue;
