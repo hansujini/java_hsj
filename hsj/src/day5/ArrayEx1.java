@@ -23,7 +23,7 @@ public class ArrayEx1 {
 		int i;
 		for(i=0; i<5; i++) {
 			arr[i] = i+1;
-			System.out.println(i+ "번지의 값 : " + arr[1]);
+			System.out.println(i+ "번지의 값 : " + arr[i]);
 		}
 		
 		System.out.println("-------");
